@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey! 👋
+I'm Francisco Serrano, recent CS grad from USC, with a passion for Games and Software Development.
 <!--
 **Frankiesc/Frankiesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
