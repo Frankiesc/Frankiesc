@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Completed Courses
+I take a lot of online courses in my free time. Not all of them will be present here, but I've learned HTML/CSS/JavaScript, Bootstrap, Ruby, and many more so far!
+
+<a href="https://www.learnenough.com/certificates/frankiejsc"><img src="https://www.learnenough.com/certificates/frankiejsc/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/frankiejsc"><img src="https://www.learnenough.com/certificates/frankiejsc/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
